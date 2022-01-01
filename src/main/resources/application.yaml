@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: test
+
+elasticsearch:
+  url: localhost:9201
